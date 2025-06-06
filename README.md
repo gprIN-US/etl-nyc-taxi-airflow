@@ -22,7 +22,7 @@ etl-nyc-taxi-airflow/
 └── README.md
 ## � How to Run
 
-1. Clone the repo  
+1. Clone the repo, dataset is huge so download it at https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page, under 2025,march :  Yellow Taxi Trip Records (PARQUET) 
 2. Install Python requirements  
 3. Start containers:  
    `docker-compose up -d`  
